@@ -8,7 +8,7 @@ For a full discussion on the use case, end user, and product development perspec
 
 Data pipeline is as follows:
 
-1) RSS feeds relating to human rights news are ingested using feedparser (https://github.com/kurtmckee/feedparser). Note: In addition to sources such as Amnesty International, UNHRC, customer RSS feeds based on human rights related search terms used for both Google and Bing.
+1) RSS feeds relating to human rights news are ingested using feedparser (https://github.com/kurtmckee/feedparser). Note: In addition to sources such as Amnesty International, UNHRC, custom RSS feeds based on human rights related search terms are used for both Google and Bing news feeds.
 
 2) Title and body text are classified and evaluated using a Support Vector Machine text classifier (trained on US Justice Department reports)
 
