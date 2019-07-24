@@ -33,7 +33,7 @@ Entity recognition and google API use to locate news stories
 
 
 
-![Model performance](https://drive.google.com/file/d/14xpOBA-Z9PRLYO_578hyAD4Y8wIkzDP5/view?usp=sharing)
+![Model performance](https://drive.google.com/open?id=14xpOBA-Z9PRLYO_578hyAD4Y8wIkzDP5)
 
 # Training Data Requirement
 
