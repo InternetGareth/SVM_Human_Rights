@@ -1,6 +1,6 @@
 # Human rights in the news
 
-A global heads-up dashboard of on-going and emerging human rights issues will rely at least in part on ingesting, classifying, and geolocating human rights related news stories from around the world. This code represents a Minimum Viable Product demonstration of such a pipeline. The model serves as a first step towards far more sophisticated approaches which have already been implemented for general news stories by projects such as GDELT (https://www.gdeltproject.org/).
+A global heads-up dashboard of ongoing and emerging human rights issues will rely at least in part on ingesting, classifying, and geolocating human rights related news stories from around the world. This code represents a Minimum Viable Product demonstration of such a pipeline. The model serves as a first step towards far more sophisticated approaches which have already been implemented for general news stories by projects such as GDELT (https://www.gdeltproject.org/).
 
 For a full discussion on the use case, end user, and product development perspective of this project, please refer to: https://www.garethwalker.me/microsoft-ai-for-good
 
