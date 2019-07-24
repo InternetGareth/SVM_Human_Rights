@@ -24,11 +24,6 @@ Data pipeline is as follows:
 
 
 
-SVM model trained on US State Department Country Reports on Human Rights
-Model then applied to RSS News Feeds generated using human rights key words and/or feeds dedicated to human rights issues
-Entity recognition and google API use to locate news stories
-
-
 # Model evaluation
 
 When applied to training data, model achieves an accuracy, precision, and recall of 76%. However, when applied to news stories, accuracy drops to 67%, recall to 60%, and precision to 62%. This is most likly due to the model over-fitting to the domain-specific language of the training corpus (official reports) and subsequently struggling to interpret the more generalized language of news stories. Some measures were taken to limit this over fitting, including limited the number of features held within the TFIDF vectorizor to the 400 most frequent terms (after stop words are removed).
