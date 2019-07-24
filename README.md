@@ -33,7 +33,7 @@ Entity recognition and google API use to locate news stories
 
 
 
-![Model performance](https://drive.google.com/open?id=14xpOBA-Z9PRLYO_578hyAD4Y8wIkzDP5)
+![Model performance](https://github.com/InternetGareth/SVM_Human_Rights/blob/master/Data/performance.png)
 
 # Training Data Requirement
 
